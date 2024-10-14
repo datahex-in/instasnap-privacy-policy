@@ -1,1 +1,0 @@
-# instasnap-privacy-policy
