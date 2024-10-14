@@ -1,6 +1,6 @@
 <head> </head>
 <h1>Privacy Policy</h1>
-<p>Last updated: September 26, 2024</p>
+<p>Last updated: October 14, 2024</p>
 <p>
   This Privacy Policy describes Our policies and procedures on the collection,
   use and disclosure of Your information when You use the Service and tells You
